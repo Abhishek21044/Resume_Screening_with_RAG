@@ -1,0 +1,31 @@
+ALEX JOHNSON
+Full Stack Developer
+Email: alex.j@email.com | Phone: (555) 456-7890 | Location: Austin, TX
+
+PROFILE
+Full Stack Developer with 3 years of experience in React and Node.js. Strong focus on building user-friendly interfaces and scalable APIs. Quick learner with passion for modern web technologies.
+
+EDUCATION
+Bachelor of Science in Software Engineering
+Texas State University (State University)
+Graduated: May 2021
+
+TECHNICAL SKILLS
+- Frontend: React, JavaScript, HTML, CSS, Tailwind
+- Backend: Node.js, Express
+- Database: MongoDB, PostgreSQL (basic)
+- Tools: Git, VS Code
+
+EXPERIENCE
+
+Full Stack Developer | WebAgency Co. | Aug 2021 - Present
+- Built React dashboards for client projects
+- Developed Node.js APIs
+- Collaborated with design team on UX
+
+Junior Developer | Local Startup | Jun 2020 - Jul 2021
+- Maintained React components
+- Fixed bugs and implemented features
+
+WORK STATUS
+US Permanent Resident - Authorized to work

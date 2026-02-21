@@ -1,0 +1,33 @@
+Senior Full Stack Engineer - Job Description
+
+Company: TechStart Inc.
+Location: Remote (US)
+Type: Full-time
+
+About the Role
+We are looking for a Senior Full Stack Engineer to join our growing team. You will build and maintain our customer-facing web applications and internal tools.
+
+Requirements
+- 4+ years of experience with React and Node.js
+- Strong proficiency in TypeScript
+- Experience with PostgreSQL or similar relational databases
+- Backend architecture and REST API design
+- Experience with cloud platforms (AWS preferred)
+- BS in Computer Science or equivalent
+
+Nice to Have
+- Kubernetes or container orchestration experience
+- Experience with Redis or caching systems
+- Leadership or mentoring experience
+
+Responsibilities
+- Design and implement scalable web applications
+- Build RESTful APIs and integrate with databases
+- Collaborate with product and design teams
+- Mentor junior developers
+
+Benefits
+- Competitive salary
+- Health insurance
+- Remote work
+- 401(k) matching

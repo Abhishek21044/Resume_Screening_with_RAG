@@ -1,0 +1,32 @@
+Backend Engineer - Job Description
+
+Company: DataPlatform Co.
+Location: San Francisco, CA (Hybrid)
+Type: Full-time
+
+About the Role
+We need a Backend Engineer to help scale our data infrastructure and APIs. You will work on high-throughput systems and collaborate with data scientists.
+
+Requirements
+- 3+ years of backend development experience
+- Proficiency in Python
+- Strong SQL skills (PostgreSQL preferred)
+- Experience with distributed systems
+- Kubernetes and Docker experience
+- Cloud experience (GCP or AWS)
+
+Nice to Have
+- Go or Rust experience
+- Kafka or event streaming
+- MS in Computer Science
+
+Responsibilities
+- Design and implement backend services
+- Optimize database queries and schemas
+- Maintain and scale Kubernetes clusters
+- Build event-driven architectures
+
+Benefits
+- Equity
+- Health, dental, vision
+- Flexible hours

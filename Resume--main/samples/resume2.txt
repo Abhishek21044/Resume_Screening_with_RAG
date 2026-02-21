@@ -1,0 +1,41 @@
+JANE SMITH
+Backend Engineer
+Email: jane.smith@email.com | Phone: (555) 987-6543 | Location: San Francisco, CA
+
+SUMMARY
+Backend-focused engineer with 4 years of experience in distributed systems and API development. Expertise in Python, PostgreSQL, and cloud infrastructure. Led backend architecture for high-traffic SaaS products.
+
+EDUCATION
+Master of Science in Computer Science
+Stanford University
+Graduated: June 2019
+
+Bachelor of Arts in Mathematics
+University of California, Berkeley
+Graduated: May 2017
+
+SKILLS
+- Languages: Python, Go, SQL
+- Backend: FastAPI, Django, Flask
+- Databases: PostgreSQL, MySQL, Redis
+- Cloud: GCP, AWS (limited exposure)
+- DevOps: Kubernetes, Docker, Terraform
+
+EXPERIENCE
+
+Backend Engineer | CloudScale Inc. | Mar 2020 - Present
+- Architected microservices handling 50M+ requests/day
+- Built PostgreSQL schemas and optimized queries
+- Implemented Kafka for event-driven architecture
+- Led migration to Kubernetes
+
+Software Developer | DataFlow Labs | Jul 2019 - Feb 2020
+- Developed REST APIs with Python/FastAPI
+- Worked with PostgreSQL and Redis for caching
+
+PROJECTS
+- Real-time Analytics Pipeline: Python, Kafka, PostgreSQL
+- API Gateway: Go, rate limiting, authentication
+
+WORK ELIGIBILITY
+US Citizen - Eligible to work without sponsorship

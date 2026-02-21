@@ -1,0 +1,41 @@
+JOHN DOE
+Senior Full Stack Engineer
+Email: john.doe@email.com | Phone: (555) 123-4567 | Location: Buffalo, NY
+
+PROFESSIONAL SUMMARY
+Full Stack Engineer with 5+ years of experience building scalable web applications using React, Node.js, and TypeScript. Strong background in backend architecture, REST APIs, and database design. Passionate about clean code and agile methodologies.
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University of New York at Buffalo (SUNY Buffalo)
+Graduated: May 2018
+
+TECHNICAL SKILLS
+- Frontend: React.js (3 years), Redux, TypeScript, HTML5, CSS3
+- Backend: Node.js, Express.js, Python
+- Databases: PostgreSQL, MongoDB, Redis
+- Cloud: AWS (EC2, S3, Lambda), Docker
+- Tools: Git, Jenkins, JIRA
+
+PROFESSIONAL EXPERIENCE
+
+Senior Full Stack Engineer | TechCorp Inc. | Jan 2021 - Present
+- Led development of customer-facing React/Node.js applications serving 100K+ users
+- Designed and implemented RESTful APIs with PostgreSQL
+- Mentored 3 junior developers on best practices
+- Reduced page load time by 40% through optimization
+
+Software Engineer | StartupXYZ | Jun 2018 - Dec 2020
+- Built React SPA with Redux for state management
+- Developed Node.js microservices with Express
+- Implemented CI/CD pipelines with Jenkins
+
+PROJECTS
+- E-commerce Platform: React + Node.js + PostgreSQL, handled 10K daily transactions
+- Internal Dashboard: Real-time analytics with WebSockets
+
+CERTIFICATIONS
+- AWS Certified Developer - Associate
+
+WORK AUTHORIZATION
+Authorized to work in the United States
